@@ -44,14 +44,6 @@ Correspond au tag `start_date`.
 
 Correspond au tag `check_date`.
 
-### Hauteur
-
-Correspond au tag `height`.
-
-### Largeur
-
-Correspond au tag `length`.
-
 ### Sources
 
 Correspond au tag `source`.
